@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "fsm256",
+  "repo": "container-wsbv-ji",
+  "name": "fsm256",
+}
